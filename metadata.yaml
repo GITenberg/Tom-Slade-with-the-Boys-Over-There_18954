@@ -1,0 +1,52 @@
+_repo: Tom-Slade-with-the-Boys-Over-There_18954
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, P. K. (Percy Keese)
+    - Fitzhugh, Percy K.
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: In the southwestern corner of the domains of Kaiser Bill, in a fair district
+  to which he has no more right than a highwayman has to his victim's wallet, there
+  is a quaint old house built of gray stone and covered with a clinging vine. In the
+  good old days when Alsace was a part of France the old house stood there and was
+  the scene of joy and plenty. In these evil days when Alsace belongs to Kaiser Bill,
+  it stands there, its dim arbor and pretty, flower-laden trellises in strange contrast
+  to the lumbering army wagons and ugly, threatening artillery which pass along the
+  quiet road. And if the prayers of its rightful owners are answered, it will still
+  stand there in the happy days to come when fair Alsace shall be a part of France
+  again and Kaiser Bill and all his clanking claptrap are gone from it forever. The
+  village in which this pleasant homestead stands is close up under the boundary of
+  Rhenish Bavaria, or Germany proper (or improper), and in the happy days when Alsace
+  was a part of France it had been known as Leteur, after the French family which
+  for generations had lived in the old gray house.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+title: Tom Slade with the Boys Over There
+url: http://www.gutenberg.org/ebooks/18954
